@@ -34,6 +34,8 @@ This repository contains the code and documentation for performing sentiment ana
    - Results will be saved in the `results/` directory.
 
 ## Acknowledgements
-- Hugging Face for the transformer models.
-- CardiffNLP for the Twitter RoBERTa model.
+- Hugging Face for the transformer models - https://huggingface.co/SamLowe/roberta-base-go_emotions
+- CardiffNLP for the Twitter RoBERTa model - https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest
 - Yelp for the dataset.
+
+
